@@ -9,10 +9,6 @@ public class array {
         }
 
     }
-    public void imprimirarray(){
-        for (int i = 0; i < this.numeros.length; i++){
-            System.out.print(this.numeros[i] + " ");
-        }
-    }
+    
 
 }
